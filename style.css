@@ -574,6 +574,7 @@ header:after {
 	z-index: 999;
 	visibility: visible;
 	top: 80px;
+	width: max-content;
 }
 .mainmenu ul li ul li > ul {
 	left: 100%;
@@ -675,7 +676,7 @@ header:after {
 .slicknav_nav {
 	background: #0076eb;
 	border-radius: 2px;
-	width: 200px;
+	width: 300px;
 	position: absolute;
 	right: 0px;
 	top: 36px;
@@ -728,6 +729,10 @@ header:after {
 .homepage-slides-wrapper {
 	position: relative;
 	clear: both;
+	height: 520px;
+}
+.homepage-slides-wrapper img{
+	z-index: -2222;
 }
 .single-slide-item {
 	background-size: cover;

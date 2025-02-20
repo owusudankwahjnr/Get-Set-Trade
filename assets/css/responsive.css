@@ -561,6 +561,6 @@ ul.track-progress li::after {
 }
 @media only screen and (max-width: 480px) {
 .single-slide-item {
-	height:180px;
+	height:480px;
 }
 }
