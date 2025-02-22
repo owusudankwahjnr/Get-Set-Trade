@@ -2,14 +2,7 @@
 
 /*
 *******************************************
-*******************************************
 
-[Main Stylesheet]
-
-Project Name    : w-shipping   
-Company  		: Web24service.com
-Desgined By     : Web24service
-Developed By    : Web24service
 
 * This file contains the styling for the actual Template, this
 is the file you need to edit to change the look of the
@@ -216,14 +209,31 @@ a#skiptocontent:active, a#skiptocontent:focus {
 	background-image: url(assets/images/slide-bg-4.jpg);
 }
 .service-bg-1 {
-	background-image: url(assets/images/service-bg-1.jpg)
+	background-image: url(assets/images/product-sourcing-services.jpg)
 }
 .service-bg-2 {
-	background-image: url(assets/images/service-bg-2.jpg)
+	background-image: url(assets/images/quality-control-service.jpg)
 }
 .service-bg-3 {
-	background-image: url(assets/images/service-bg-3.jpg)
+	background-image: url(assets/images/suppiler-auditing-services.jpg)
 }
+
+.service-bg-4 {
+	background-image: url(assets/images/logistics-services.jpg)
+}
+
+.service-bg-5 {
+	background-image: url(assets/images/ocean-services.jpg)
+}
+
+.service-bg-6 {
+	background-image: url(assets/images/air-services.jpg)
+}
+
+.service-bg-7 {
+	background-image: url(assets/images/car-shipping.jpg)
+}
+
 .home-quote {
 	background-image: url(assets/images/get-quote-bg.jpg);
 }
