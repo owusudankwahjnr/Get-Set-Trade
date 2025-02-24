@@ -1401,7 +1401,7 @@ span.counter-icon {
 /*-------------- Testimonial Css ------------------*/
 
 .testimonial {
-	background-color: #eb0028;
+	background-color: #0076eb;
 	border-radius: 4px;
 	position: relative;
 }
@@ -1414,7 +1414,7 @@ span.counter-icon {
 	border-radius: 4px 0px 0px 4px;
 	background-size: cover;
 	background-position: center;
-	height: 222px;
+	height: 100%;
 }
 .testimonial-content {
 	padding: 40px 20px 20px 0px;
@@ -1450,13 +1450,13 @@ span.counter-icon {
 .testimonial .owl-dots .owl-dot {
 	width: 12px;
 	height: 12px;
-	background-color: #790000;
+	background-color: #005379;
 	border-radius: 100%;
 	margin-left: 6px;
 	display: inline-block;
 }
 .testimonial .owl-dots .owl-dot.active {
-	background-color: #fff799;
+	background-color: #ffffff;
 }
 /*-------------- Our Client Css ------------------*/
 
@@ -1502,7 +1502,7 @@ span.counter-icon {
 	color: #a7a7a7;
 }
 .footer-top-area a:hover {
-	color: #eb0028;
+	color: #0076eb;
 	text-decoration: none;
 }
 .footer-wiz {
@@ -1544,7 +1544,7 @@ span.counter-icon {
 	color: #0076eb;
 }
 .footer-wiz ul.footer-contact li a {
-	color: #eb0028;
+	color: #0062eb;
 }
 .footer-wiz ul.footer-contact li i.fa {
 	padding-right: 4px;
@@ -1564,10 +1564,10 @@ span.counter-icon {
 	font-weight: 900;
 }
 .footer-menu ul li:hover a {
-	color: #eb0028;
+	color: #0062eb;
 }
 .footer-menu ul li:hover:before {
-	color: #eb0028;
+	color: #0062eb;
 }
 .footer-menu ul li:hover {
 	padding-right: 20px;
@@ -2343,7 +2343,7 @@ button.btn-submit:hover {
 	content: "\f13e";
 }
 .advantages ul li.guarantee:before {
-	content: "\f087";
+	content: "\f164";
 }
 .advantages ul li.location:before {
 	content: "\f041";
